@@ -52,13 +52,10 @@
 ###
 
 <div align="left">
-  [![Upwork Badge](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e15c653dfbed2b29)
-  <div>
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)(https://www.upwork.com/freelancers/~01e15c653dfbed2b29)
-  </div>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="30" alt="stackoverflow logo"  />
+  <a href="https://www.upwork.com/freelancers/~01e15c653dfbed2b29"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork logo" /></a>
+  <a href="https://www.linkedin.com/in/caio-marianni-de-morais"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=5562981160081&text=Hello%2C+I+came+across+your+website.%0A%0Aname%3A%0Aregion%2Flanguage%3A%0Asubject%3A&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp logo" /></a>
+  <a href="https://caio-marianni-portfolio.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 
 ###
