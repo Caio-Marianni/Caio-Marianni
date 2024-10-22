@@ -4,7 +4,7 @@
 
 <p align="left">📍Hello dear friend, I am a programmer who seeks to become the great FullStack (🧙‍♂️wizard code supreme).
 <br/>
-▫️I constantly seek to improve my applications, seeking good design and good optimization.</p>
+◽ I constantly seek to improve my applications, seeking good design and good optimization.</p>
 
 ###
 
