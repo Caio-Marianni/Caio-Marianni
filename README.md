@@ -4,7 +4,7 @@
 
 <p align="left">📍Hello dear friend, I am a programmer who seeks to become the great FullStack (🧙‍♂️wizard code supreme).
 <br/>
-➖I constantly seek to improve my applications, seeking good design and good optimization.</p>
+▫️I constantly seek to improve my applications, seeking good design and good optimization.</p>
 
 ###
 
@@ -64,6 +64,10 @@
 
 <br clear="both">
 
-<div align="right">
+###
+
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=Caio-Marianni&theme=tokyonight&column=5&row=1&margin-w=0&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
