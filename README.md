@@ -58,11 +58,4 @@
 ###
 
 <br clear="both">
-
-###
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=Caio-Marianni&theme=tokyonight&column=5&row=1&margin-w=0&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
 ###
